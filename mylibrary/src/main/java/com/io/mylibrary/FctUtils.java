@@ -6,5 +6,9 @@ package com.io.mylibrary;
 
 public class FctUtils {
 
-    public static void getString(){}
+    public static void getString() {
+    }
+
+    public static void setString() {
+    }
 }
